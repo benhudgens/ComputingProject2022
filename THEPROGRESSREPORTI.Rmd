@@ -17,7 +17,8 @@ I have added a table to R Markdown, eventually the coded equations will be inser
 
 ## Ben H.
 
-I have begun consulting relative material on how to create equations that will be able to convert data points gathered into other useful values, and then display those values in a readable format. I have also insalled JupyterNotebook, and imported pandas for these purposes.
+I have begun consulting relative material on how to create equations that will be able to convert data points gathered into other useful values, and then 
+display those values in a readable format. I have also insalled JupyterNotebook, and imported pandas for these purposes.
 
 
 ```{r Table}
