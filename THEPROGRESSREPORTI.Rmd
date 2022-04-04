@@ -15,7 +15,9 @@ Caileigh Lavigne, Dereck Jernigan, and Ben Hudgens, will be writing a program th
 
 I have added a table to R Markdown, eventually the coded equations will be inserted into the table for organization.
 
+## Ben H.
 
+I have begun consulting relative material on how to create equations that will be able to convert data points gathered into other useful values, and then display those values in a readable format
 
 
 ```{r Table}
